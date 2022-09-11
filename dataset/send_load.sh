@@ -1,1 +1,0 @@
-scp load_csv.py nslab@140.112.42.161:~/Desktop/Cheng_test
