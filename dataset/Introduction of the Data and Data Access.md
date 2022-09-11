@@ -16,4 +16,5 @@ In my research, I picked the data from 'United_States', 'United_Kingdom', 'Franc
 
 [note 1]
 The option of locations is shown below.
+
 location = 'Taiwan', 'Russian', 'Brazil', 'Ukraine', 'South_Korea', 'Spain', 'United_Kingdom', 'Canada', 'France', 'Netherlands', 'Germany', 'Japan', 'Australia', 'Denmark', 'Poland', 'Sweden', 'Italy', 'Turkey', 'United_States', 'SouthKorea'
