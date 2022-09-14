@@ -14,7 +14,11 @@ In my research, I picked the data from 'United_States', 'United_Kingdom', 'Franc
 3. Change the variable 'loc' in 'load_csv.py' to the data you want to choose. [note 1]
 4. Run 'load_csv.py'
 5. The program, 'load_csv.py', will create the data file as, './dataset/{loc}.csv'.
-6. Use SCP command, "scp nslab@140.112.42.161:~/Desktop/Cheng_test/dataset/{loc}.csv", to get the data from remote server to local.
+6. Use below SCP command to get the data from remote server to local.
+```
+scp nslab@140.112.42.161:~/Desktop/Cheng_test/dataset/{loc}.csv
+```
+
 
 [note 1]
 The option of locations is shown below.
