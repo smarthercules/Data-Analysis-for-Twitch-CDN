@@ -1,0 +1,31 @@
+ Number of evaluations:  100  -2lnl: 5880.119622 Number of evaluations:  200  -2lnl: 5599.150109 Number of evaluations:  300  -2lnl: 5564.752944 Number of evaluations:  400  -2lnl: 5499.332085 Number of evaluations:  500  -2lnl: 5470.968078 Number of evaluations:  600  -2lnl:  5447.82897 Number of evaluations:  700  -2lnl: 5422.969199 Number of evaluations:  800  -2lnl:  5410.48256 Number of evaluations:  900  -2lnl: 5408.005526 Number of evaluations:  1000  -2lnl: 5406.857303 Number of evaluations:  1100  -2lnl: 5406.488466 Number of evaluations:  1200  -2lnl: 5406.185904 Number of evaluations:  1300  -2lnl: 5406.147499 Number of evaluations:  1400  -2lnl: 5406.143205 Number of evaluations:  1500  -2lnl: 5406.141959 Number of evaluations:  1600  -2lnl: 5406.139068 Number of evaluations:  1700  -2lnl: 5406.129771 Number of evaluations:  1800  -2lnl: 5406.119883 Number of evaluations:  1900  -2lnl: 5406.118983 Number of evaluations:  2000  -2lnl: 5406.117472 Number of evaluations:  2100  -2lnl: 5406.116426 Number of evaluations:  2200  -2lnl: 5406.115175 Number of evaluations:  2300  -2lnl: 5406.136336 Number of evaluations:  2400  -2lnl: 5406.220423 Number of evaluations:  2500  -2lnl: 5406.583962 Number of evaluations:  2600  -2lnl: 5406.327945 Number of evaluations:  2700  -2lnl:  5406.11614 Number of evaluations:  2800  -2lnl: 5406.121299 Number of evaluations:  2900  -2lnl: 5406.116096 Number of evaluations:  3000  -2lnl: 5407.636659 Number of evaluations:  3100  -2lnl: 5406.116777 Number of evaluations:  3200  -2lnl: 5406.189884 Number of evaluations:  3300  -2lnl: 5406.117548 Number of evaluations:  3400  -2lnl: 5406.204483 Number of evaluations:  3500  -2lnl: 5406.115113 Number of evaluations:  3600  -2lnl: 5406.289073 Number of evaluations:  3700  -2lnl: 5406.120697 Number of evaluations:  3800  -2lnl: 5406.220385 Number of evaluations:  3900  -2lnl: 5406.115656 Number of evaluations:  4000  -2lnl: 5406.329017 Number of evaluations:  4100  -2lnl: 5406.115469 Number of evaluations:  4200  -2lnl: 5406.125366 Number of evaluations:  4300  -2lnl: 5406.473685 Number of evaluations:  4400  -2lnl:    5406.159 Number of evaluations:  4500  -2lnl: 5406.115824 Number of evaluations:  4600  -2lnl: 5406.119437 Number of evaluations:  4700  -2lnl: 5406.115181 Number of evaluations:  4800  -2lnl: 5406.115178 Number of evaluations:  100  -2lnl:  5412.17832 Number of evaluations:  200  -2lnl: 5407.675994 Number of evaluations:  300  -2lnl: 5407.682514 Number of evaluations:  400  -2lnl: 5406.166491 Number of evaluations:  500  -2lnl: 5406.141783 Number of evaluations:  600  -2lnl: 5406.202129 Number of evaluations:  700  -2lnl: 5406.117452 Number of evaluations:  800  -2lnl: 5406.478881 Number of evaluations:  900  -2lnl: 5406.236679 Number of evaluations:  1000  -2lnl: 5406.131616 Number of evaluations:  1100  -2lnl: 5406.231263 Number of evaluations:  1200  -2lnl: 5406.200915 Number of evaluations:  1300  -2lnl:  5406.82818 Number of evaluations:  1400  -2lnl: 5406.173261 Number of evaluations:  1500  -2lnl: 5406.557158 Number of evaluations:  1600  -2lnl: 5406.168626 Number of evaluations:  1700  -2lnl: 5406.860883 Number of evaluations:  1800  -2lnl: 5406.116822 Number of evaluations:  1900  -2lnl: 5406.187099 Number of evaluations:  2000  -2lnl: 5406.122223 Number of evaluations:  2100  -2lnl: 5406.153264 Number of evaluations:  2200  -2lnl:  5406.11973 Number of evaluations:  2300  -2lnl: 5406.135318 Number of evaluations:  2400  -2lnl: 5406.117641$Phi
+   cluster time occ  estimate
+1   class0    6   6 0.9569532
+2   class1    6   6 0.9732383
+3   class0    5   5 0.8905897
+4   class1    5   5 0.9181350
+5   class0    4   4 0.9180349
+6   class1    4   4 0.9189175
+7   class0    3   3 0.9597831
+8   class1    3   3 0.9636874
+9   class0    2   2 0.9999874
+10  class1    2   2 0.9999947
+11  class0    1   1 0.9780755
+12  class1    1   1 0.9838051
+
+$p
+   cluster time occ  estimate
+1   class0    7   7 0.6223650
+2   class1    7   7 0.6108216
+3   class0    6   6 0.8936755
+4   class1    6   6 0.9097528
+5   class0    5   5 0.7371883
+6   class1    5   5 0.7277589
+7   class0    4   4 0.7948130
+8   class1    4   4 0.8058179
+9   class0    3   3 0.8275262
+10  class1    3   3 0.7436448
+11  class0    2   2 0.7309750
+12  class1    2   2 0.6890334
+
+Time difference of 0.6884198 secs
