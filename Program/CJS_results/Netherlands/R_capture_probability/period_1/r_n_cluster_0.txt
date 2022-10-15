@@ -1,0 +1,33 @@
+ Number of evaluations:  100  -2lnl:  2318.09416 Number of evaluations:  200  -2lnl: 2007.019833 Number of evaluations:  300  -2lnl: 1942.534695 Number of evaluations:  400  -2lnl: 1899.369885 Number of evaluations:  500  -2lnl: 1898.502802 Number of evaluations:  600  -2lnl:  1897.06004 Number of evaluations:  700  -2lnl:  1896.59428 Number of evaluations:  800  -2lnl: 1896.407993 Number of evaluations:  900  -2lnl: 1896.385561 Number of evaluations:  1000  -2lnl: 1896.382697 Number of evaluations:  1100  -2lnl:  1896.37486 Number of evaluations:  1200  -2lnl: 1896.376268 Number of evaluations:  1300  -2lnl: 1896.479732 Number of evaluations:  1400  -2lnl: 1896.376265 Number of evaluations:  1500  -2lnl: 1896.376262 Number of evaluations:  1600  -2lnl: 1896.376003 Number of evaluations:  1700  -2lnl: 1896.376263 Number of evaluations:  1800  -2lnl: 1896.376268 Number of evaluations:  1900  -2lnl: 1896.376267 Number of evaluations:  2000  -2lnl: 1896.435873 Number of evaluations:  2100  -2lnl: 1896.376267 Number of evaluations:  2200  -2lnl: 1896.376268 Number of evaluations:  2300  -2lnl: 1896.385571 Number of evaluations:  2400  -2lnl: 1896.378171 Number of evaluations:  2500  -2lnl: 1897.459048 Number of evaluations:  2600  -2lnl: 1896.377616 Number of evaluations:  2700  -2lnl: 1896.420601 Number of evaluations:  2800  -2lnl: 1896.379069 Number of evaluations:  2900  -2lnl: 1896.376269 Number of evaluations:  3000  -2lnl: 1896.377627 Number of evaluations:  3100  -2lnl: 1896.397961 Number of evaluations:  3200  -2lnl: 1896.381142 Number of evaluations:  3300  -2lnl: 1896.474662 Number of evaluations:  3400  -2lnl: 1896.376294 Number of evaluations:  3500  -2lnl: 1896.398382 Number of evaluations:  3600  -2lnl: 1896.377939 Number of evaluations:  3700  -2lnl: 1896.403343 Number of evaluations:  3800  -2lnl: 1896.382846 Number of evaluations:  3900  -2lnl: 1896.506385 Number of evaluations:  4000  -2lnl: 1896.376268 Number of evaluations:  4100  -2lnl: 1896.376268 Number of evaluations:  100  -2lnl: 1896.376268 Number of evaluations:  200  -2lnl: 1896.382949 Number of evaluations:  300  -2lnl: 1896.376241 Number of evaluations:  400  -2lnl: 1896.376264 Number of evaluations:  500  -2lnl: 1896.371984 Number of evaluations:  600  -2lnl: 1896.376266 Number of evaluations:  700  -2lnl: 1896.376263 Number of evaluations:  800  -2lnl: 1896.376267 Number of evaluations:  900  -2lnl: 1900.118988 Number of evaluations:  1000  -2lnl: 1896.376267 Number of evaluations:  1100  -2lnl: 1896.376264 Number of evaluations:  1200  -2lnl: 1896.378595 Number of evaluations:  1300  -2lnl: 1896.510182 Number of evaluations:  1400  -2lnl: 1896.384929 Number of evaluations:  1500  -2lnl: 1896.461369 Number of evaluations:  1600  -2lnl: 1896.387428 Number of evaluations:  1700  -2lnl: 1896.551146 Number of evaluations:  1800  -2lnl: 1896.376268 Number of evaluations:  1900  -2lnl: 1896.462487 Number of evaluations:  2000  -2lnl: 1896.642011 Number of evaluations:  2100  -2lnl: 1896.678524 Number of evaluations:  2200  -2lnl:  1896.40434 Number of evaluations:  2300  -2lnl: 1896.377952 Number of evaluations:  2400  -2lnl: 1896.376374 Number of evaluations:  2500  -2lnl: 1896.482244 Number of evaluations:  2600  -2lnl:  1896.40236 Number of evaluations:  2700  -2lnl: 1896.780493 Number of evaluations:  2800  -2lnl: 1896.402543$Phi
+   time occ  estimate
+1    13  13 0.9999993
+2    12  12 0.9999995
+3    11  11 0.9999999
+4    10  10 0.9999998
+5     9   9 0.9999998
+6     8   8 0.9999999
+7     7   7 0.9999999
+8     6   6 0.9999998
+9     5   5 0.9999998
+10    1   1 0.9999993
+11    2   2 0.9999997
+12    3   3 0.9999997
+13    4   4 0.9999997
+
+$p
+   time occ   estimate
+1    14  14 0.05923428
+2    13  13 0.15693590
+3    12  12 0.25397007
+4    11  11 0.08000051
+5    10  10 0.15695159
+6     9   9 0.24193724
+7     8   8 0.10055894
+8     7   7 0.14197593
+9     6   6 0.40816623
+10    2   2 0.24285878
+11    3   3 0.24285955
+12    4   4 0.24285915
+13    5   5 0.34286069
+
+Time difference of 0.6463702 secs
