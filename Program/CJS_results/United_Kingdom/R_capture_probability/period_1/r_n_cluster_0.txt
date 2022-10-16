@@ -1,0 +1,23 @@
+ Number of evaluations:  100  -2lnl: 7688.071844 Number of evaluations:  200  -2lnl: 7606.276645 Number of evaluations:  300  -2lnl: 7574.652481 Number of evaluations:  400  -2lnl: 7553.634835 Number of evaluations:  500  -2lnl: 7535.281998 Number of evaluations:  600  -2lnl: 7533.674468 Number of evaluations:  700  -2lnl: 7533.360666 Number of evaluations:  800  -2lnl: 7533.168752 Number of evaluations:  900  -2lnl: 7533.144888 Number of evaluations:  1000  -2lnl: 7533.141691 Number of evaluations:  1100  -2lnl:  7533.14124 Number of evaluations:  1200  -2lnl: 7533.509982 Number of evaluations:  1300  -2lnl: 7533.145549 Number of evaluations:  1400  -2lnl: 7540.849492 Number of evaluations:  1500  -2lnl: 7533.423788 Number of evaluations:  1600  -2lnl: 7535.184807 Number of evaluations:  1700  -2lnl:  7533.26161 Number of evaluations:  1800  -2lnl: 7533.718953 Number of evaluations:  1900  -2lnl: 7533.199207 Number of evaluations:  2000  -2lnl: 7534.418655 Number of evaluations:  2100  -2lnl: 7533.159108 Number of evaluations:  2200  -2lnl: 7533.141243 Number of evaluations:  2300  -2lnl:  7533.14124 Number of evaluations:  100  -2lnl: 7534.613907 Number of evaluations:  200  -2lnl:  7533.15863 Number of evaluations:  300  -2lnl: 7564.974767 Number of evaluations:  400  -2lnl: 7534.273736 Number of evaluations:  500  -2lnl: 7541.460043 Number of evaluations:  600  -2lnl: 7533.624243 Number of evaluations:  700  -2lnl:    7535.502 Number of evaluations:  800  -2lnl: 7533.374081 Number of evaluations:  900  -2lnl:  7538.44885 Number of evaluations:  1000  -2lnl: 7533.212865$Phi
+  time occ  estimate
+1    8   8 0.9311599
+2    7   7 0.7076109
+3    6   6 0.7581465
+4    5   5 0.8494789
+5    4   4 0.8684981
+6    3   3 0.9999999
+7    2   2 0.9999998
+8    1   1 0.9386127
+
+$p
+  time occ  estimate
+1    9   9 0.3967960
+2    8   8 0.7626355
+3    7   7 0.4352573
+4    6   6 0.3877007
+5    5   5 0.6400230
+6    4   4 0.7022604
+7    3   3 0.1414486
+8    2   2 0.1890266
+
+Time difference of 0.4156117 secs
