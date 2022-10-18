@@ -1,0 +1,31 @@
+ Number of evaluations:  100  -2lnl: 6183.275935 Number of evaluations:  200  -2lnl: 4869.195038 Number of evaluations:  300  -2lnl: 4796.845942 Number of evaluations:  400  -2lnl: 4750.243141 Number of evaluations:  500  -2lnl: 4594.189335 Number of evaluations:  600  -2lnl: 4466.700254 Number of evaluations:  700  -2lnl: 4446.653397 Number of evaluations:  800  -2lnl: 4440.825671 Number of evaluations:  900  -2lnl: 4438.975668 Number of evaluations:  1000  -2lnl: 4438.407569 Number of evaluations:  1100  -2lnl: 4438.246695 Number of evaluations:  1200  -2lnl: 4438.201759 Number of evaluations:  1300  -2lnl: 4438.189581 Number of evaluations:  1400  -2lnl: 4438.186246 Number of evaluations:  1500  -2lnl: 4438.185282 Number of evaluations:  1600  -2lnl: 4438.185257 Number of evaluations:  1700  -2lnl: 4441.895222 Number of evaluations:  1800  -2lnl: 4438.185281 Number of evaluations:  1900  -2lnl:  4438.18524 Number of evaluations:  2000  -2lnl: 4438.185258 Number of evaluations:  2100  -2lnl: 4438.185234 Number of evaluations:  2200  -2lnl: 4438.188514 Number of evaluations:  2300  -2lnl: 4598.241258 Number of evaluations:  2400  -2lnl: 6840.294077 Number of evaluations:  2500  -2lnl: 4438.500538 Number of evaluations:  2600  -2lnl: 4461.179271 Number of evaluations:  2700  -2lnl: 4611.147412 Number of evaluations:  2800  -2lnl: 4497.141084 Number of evaluations:  2900  -2lnl: 4438.735317 Number of evaluations:  3000  -2lnl: 4623.996094 Number of evaluations:  3100  -2lnl: 4452.817773 Number of evaluations:  3200  -2lnl: 4444.261423 Number of evaluations:  3300  -2lnl: 4439.991682 Number of evaluations:  3400  -2lnl: 4530.086509 Number of evaluations:  3500  -2lnl: 4440.188409 Number of evaluations:  3600  -2lnl: 4497.302727 Number of evaluations:  3700  -2lnl: 4440.251576 Number of evaluations:  3800  -2lnl: 4535.363722 Number of evaluations:  3900  -2lnl: 4446.964078 Number of evaluations:  4000  -2lnl: 4438.185294 Number of evaluations:  4100  -2lnl: 4438.185236 Number of evaluations:  100  -2lnl: 6635.954655 Number of evaluations:  200  -2lnl: 4438.185726 Number of evaluations:  300  -2lnl: 4438.185285 Number of evaluations:  400  -2lnl: 4438.185239 Number of evaluations:  500  -2lnl: 4438.185258 Number of evaluations:  600  -2lnl: 4438.185241 Number of evaluations:  700  -2lnl: 4438.185234 Number of evaluations:  800  -2lnl: 4598.241258 Number of evaluations:  900  -2lnl: 6840.294052 Number of evaluations:  1000  -2lnl: 4438.500538 Number of evaluations:  1100  -2lnl: 4461.175991 Number of evaluations:  1200  -2lnl: 4441.895228 Number of evaluations:  1300  -2lnl: 4447.110369 Number of evaluations:  1400  -2lnl: 4439.050621 Number of evaluations:  1500  -2lnl:  4623.99607 Number of evaluations:  1600  -2lnl:  4438.58501 Number of evaluations:  1700  -2lnl: 4453.186534 Number of evaluations:  1800  -2lnl: 4439.991677 Number of evaluations:  1900  -2lnl: 4470.155316 Number of evaluations:  2000  -2lnl: 4441.709839 Number of evaluations:  2100  -2lnl: 4472.043947 Number of evaluations:  2200  -2lnl: 4440.651346 Number of evaluations:  2300  -2lnl: 4535.363698 Number of evaluations:  2400  -2lnl: 4448.715116$Phi
+   cluster time occ  estimate
+1   class1    6   6 1.0000000
+2   class1    5   5 1.0000000
+3   class1    4   4 1.0000000
+4   class1    3   3 1.0000000
+5   class1    2   2 1.0000000
+6   class1    1   1 1.0000000
+7   class0    1   1 0.9999946
+8   class0    2   2 0.9999996
+9   class0    3   3 0.9999996
+10  class0    4   4 0.9999996
+11  class0    5   5 0.9999994
+12  class0    6   6 0.9999927
+
+$p
+   cluster time occ   estimate
+1   class1    7   7 0.06565068
+2   class1    6   6 0.64303514
+3   class1    5   5 0.52100882
+4   class1    4   4 0.26027447
+5   class1    3   3 0.14556974
+6   class1    2   2 0.19071330
+7   class0    2   2 0.99999999
+8   class0    3   3 1.00000000
+9   class0    4   4 0.99999954
+10  class0    5   5 1.00000000
+11  class0    6   6 0.99999995
+12  class0    7   7 0.67010899
+
+Time difference of 0.5315232 secs

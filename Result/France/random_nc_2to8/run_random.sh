@@ -1,0 +1,12 @@
+files='0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19'
+n_clusters='2 3 4 5 6 7 8'
+for n_cluster in $n_clusters
+do
+	for loop in $files
+	do
+		echo "start: n_clusters_$n_cluster, label_$loop"
+		python kmeans_random_phase1.py 0 $n_cluster $loop
+		Rscript CJS.R ./p1_capture_history/n_cluster_$n_cluster/label_$loop.txt ./p1_capture_history/n_cluster_$n_cluster/group_label_$loop.txt > ./R_capture_probability/n_cluster_$n_cluster/r_$loop.txt
+		python cheng_random_kmeans_phase2.py 0 $n_cluster $loop
+		done
+done

@@ -1,0 +1,39 @@
+ Number of evaluations:  100  -2lnl:  7717.58372 Number of evaluations:  200  -2lnl: 7658.887369 Number of evaluations:  300  -2lnl: 7608.436953 Number of evaluations:  400  -2lnl: 7601.010489 Number of evaluations:  500  -2lnl: 7584.900867 Number of evaluations:  600  -2lnl: 7575.453846 Number of evaluations:  700  -2lnl: 7567.289613 Number of evaluations:  800  -2lnl: 7549.705686 Number of evaluations:  900  -2lnl: 7543.125439 Number of evaluations:  1000  -2lnl: 7542.312966 Number of evaluations:  1100  -2lnl: 7532.955116 Number of evaluations:  1200  -2lnl: 7529.885211 Number of evaluations:  1300  -2lnl:  7527.41096 Number of evaluations:  1400  -2lnl: 7526.782954 Number of evaluations:  1500  -2lnl:  7525.64857 Number of evaluations:  1600  -2lnl: 7525.643991 Number of evaluations:  1700  -2lnl: 7525.233943 Number of evaluations:  1800  -2lnl: 7525.172946 Number of evaluations:  1900  -2lnl: 7525.018164 Number of evaluations:  2000  -2lnl: 7524.984704 Number of evaluations:  2100  -2lnl: 7524.929012 Number of evaluations:  2200  -2lnl: 7524.878361 Number of evaluations:  2300  -2lnl: 7524.784755 Number of evaluations:  2400  -2lnl:  7524.70113 Number of evaluations:  2500  -2lnl: 7524.685851 Number of evaluations:  2600  -2lnl: 7524.673971 Number of evaluations:  2700  -2lnl: 7524.672068 Number of evaluations:  2800  -2lnl: 7524.670406 Number of evaluations:  2900  -2lnl:  7524.67012 Number of evaluations:  3000  -2lnl: 7524.687672 Number of evaluations:  3100  -2lnl: 7524.671276 Number of evaluations:  3200  -2lnl: 7524.671044 Number of evaluations:  3300  -2lnl: 7525.327316 Number of evaluations:  3400  -2lnl: 7525.314968 Number of evaluations:  3500  -2lnl: 7524.717222 Number of evaluations:  3600  -2lnl: 7525.413591 Number of evaluations:  3700  -2lnl: 7524.672446 Number of evaluations:  3800  -2lnl:  7524.67046 Number of evaluations:  3900  -2lnl: 7524.671271 Number of evaluations:  4000  -2lnl: 7524.673764 Number of evaluations:  4100  -2lnl: 7524.671228 Number of evaluations:  4200  -2lnl: 7524.674979 Number of evaluations:  4300  -2lnl: 7524.923579 Number of evaluations:  4400  -2lnl: 7525.424337 Number of evaluations:  4500  -2lnl: 7524.671787 Number of evaluations:  4600  -2lnl: 7528.916536 Number of evaluations:  4700  -2lnl: 7524.790502 Number of evaluations:  4800  -2lnl:  7527.00468 Number of evaluations:  4900  -2lnl: 7525.168672 Number of evaluations:  5000  -2lnl: 7525.115952 Number of evaluations:  5100  -2lnl: 7525.298357 Number of evaluations:  5200  -2lnl: 7525.190619 Number of evaluations:  5300  -2lnl: 7524.719456 Number of evaluations:  5400  -2lnl: 7529.789714 Number of evaluations:  5500  -2lnl: 7524.691107 Number of evaluations:  5600  -2lnl: 7524.953619 Number of evaluations:  5700  -2lnl: 7524.697577 Number of evaluations:  5800  -2lnl: 7526.572223 Number of evaluations:  5900  -2lnl: 7524.697613 Number of evaluations:  6000  -2lnl: 7526.636619 Number of evaluations:  6100  -2lnl: 7524.675094 Number of evaluations:  6200  -2lnl: 7524.728199 Number of evaluations:  6300  -2lnl: 7524.670313 Number of evaluations:  6400  -2lnl: 7528.736765 Number of evaluations:  6500  -2lnl: 7525.247058 Number of evaluations:  6600  -2lnl: 7524.698468 Number of evaluations:  6700  -2lnl: 7524.670021 Number of evaluations:  6800  -2lnl: 7524.676815 Number of evaluations:  6900  -2lnl: 7524.697958 Number of evaluations:  7000  -2lnl: 7524.789221 Number of evaluations:  7100  -2lnl: 7524.918752 Number of evaluations:  7200  -2lnl:  7524.67202 Number of evaluations:  7300  -2lnl: 7524.669891 Number of evaluations:  7400  -2lnl: 7524.669891 Number of evaluations:  100  -2lnl: 7524.672208 Number of evaluations:  200  -2lnl: 7524.739333 Number of evaluations:  300  -2lnl: 7524.670066 Number of evaluations:  400  -2lnl:  7524.78432 Number of evaluations:  500  -2lnl: 7527.922536 Number of evaluations:  600  -2lnl: 7524.784306 Number of evaluations:  700  -2lnl: 7564.937557 Number of evaluations:  800  -2lnl: 7524.675567 Number of evaluations:  900  -2lnl: 7524.762228 Number of evaluations:  1000  -2lnl: 7524.678114 Number of evaluations:  1100  -2lnl: 7564.051036 Number of evaluations:  1200  -2lnl: 7524.670208 Number of evaluations:  1300  -2lnl: 7540.688368 Number of evaluations:  1400  -2lnl: 7524.786712 Number of evaluations:  1500  -2lnl: 7524.790434 Number of evaluations:  1600  -2lnl: 7524.678417 Number of evaluations:  1700  -2lnl: 7532.705615 Number of evaluations:  1800  -2lnl: 7525.142425 Number of evaluations:  1900  -2lnl: 7532.412694 Number of evaluations:  2000  -2lnl: 7524.862658 Number of evaluations:  2100  -2lnl: 7533.797883 Number of evaluations:  2200  -2lnl: 7524.785353 Number of evaluations:  2300  -2lnl: 7528.166965 Number of evaluations:  2400  -2lnl: 7524.885603 Number of evaluations:  2500  -2lnl: 7526.413302 Number of evaluations:  2600  -2lnl: 7525.787564 Number of evaluations:  2700  -2lnl: 7524.943126 Number of evaluations:  2800  -2lnl: 7524.671061 Number of evaluations:  2900  -2lnl: 7524.945619 Number of evaluations:  3000  -2lnl: 7524.671639 Number of evaluations:  3100  -2lnl: 7525.420772 Number of evaluations:  3200  -2lnl: 7525.723823 Number of evaluations:  3300  -2lnl: 7524.697562 Number of evaluations:  3400  -2lnl: 7524.672373 Number of evaluations:  3500  -2lnl: 7524.805671 Number of evaluations:  3600  -2lnl: 7524.672796 Number of evaluations:  3700  -2lnl: 7525.867464 Number of evaluations:  3800  -2lnl: 7524.778548 Number of evaluations:  3900  -2lnl: 7532.424926 Number of evaluations:  4000  -2lnl:  7524.66996 Number of evaluations:  4100  -2lnl: 7524.676094 Number of evaluations:  4200  -2lnl: 7524.677003$Phi
+   cluster time occ  estimate
+1   class0    8   8 0.5470307
+2   class1    8   8 0.5294767
+3   class0    7   7 0.7510704
+4   class1    7   7 0.6690301
+5   class0    6   6 0.7058415
+6   class1    6   6 0.8158769
+7   class0    5   5 0.8664166
+8   class1    5   5 0.8289833
+9   class0    4   4 0.8528899
+10  class1    4   4 0.8854426
+11  class0    3   3 0.9999998
+12  class1    3   3 1.0000000
+13  class0    2   2 0.9999996
+14  class1    2   2 1.0000000
+15  class0    1   1 0.9436469
+16  class1    1   1 0.9335150
+
+$p
+   cluster time occ  estimate
+1   class0    9   9 0.6884195
+2   class1    9   9 0.6831246
+3   class0    8   8 0.7879615
+4   class1    8   8 0.7363810
+5   class0    7   7 0.4411513
+6   class1    7   7 0.4293764
+7   class0    6   6 0.4034472
+8   class1    6   6 0.3731179
+9   class0    5   5 0.6749802
+10  class1    5   5 0.6051104
+11  class0    4   4 0.6871065
+12  class1    4   4 0.7180899
+13  class0    3   3 0.1355670
+14  class1    3   3 0.1476092
+15  class0    2   2 0.1839618
+16  class1    2   2 0.1942755
+
+Time difference of 1.308167 secs

@@ -1,0 +1,19 @@
+ Number of evaluations:  100  -2lnl: 5511.544523 Number of evaluations:  200  -2lnl: 5434.870698 Number of evaluations:  300  -2lnl: 5425.744227 Number of evaluations:  400  -2lnl: 5417.790628 Number of evaluations:  500  -2lnl: 5415.303364 Number of evaluations:  600  -2lnl: 5414.910894 Number of evaluations:  700  -2lnl: 5414.838581 Number of evaluations:  800  -2lnl: 5414.837284 Number of evaluations:  900  -2lnl: 5414.835495 Number of evaluations:  1000  -2lnl: 5414.826749 Number of evaluations:  1100  -2lnl: 5414.794886 Number of evaluations:  1200  -2lnl: 5414.792003 Number of evaluations:  1300  -2lnl: 5414.799913 Number of evaluations:  1400  -2lnl: 5416.144563 Number of evaluations:  1500  -2lnl: 5415.282376 Number of evaluations:  1600  -2lnl: 5416.346209 Number of evaluations:  1700  -2lnl: 5416.790585 Number of evaluations:  1800  -2lnl: 5415.715239 Number of evaluations:  1900  -2lnl: 5414.791745 Number of evaluations:  100  -2lnl: 5449.854568 Number of evaluations:  200  -2lnl: 5414.897022 Number of evaluations:  300  -2lnl: 5416.398519 Number of evaluations:  400  -2lnl: 5414.792951 Number of evaluations:  500  -2lnl: 5417.211835 Number of evaluations:  600  -2lnl: 5414.800002$Phi
+  time occ  estimate
+1    6   6 0.8432773
+2    5   5 0.9044225
+3    4   4 0.9185343
+4    3   3 0.9616463
+5    2   2 0.9999999
+6    1   1 0.9809492
+
+$p
+  time occ  estimate
+1    7   7 0.7053121
+2    6   6 0.9018534
+3    5   5 0.7323706
+4    4   4 0.8002000
+5    3   3 0.7854797
+6    2   2 0.7098066
+
+Time difference of 0.2982092 secs
