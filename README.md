@@ -1,23 +1,30 @@
-# Data-Analysis-for-Twitch-CDN
+# Data analysis for CDN server population estimation based on CMR model with heterogeneity
+
+## Absract
 Data analysis for CDN server population estimation based on CMR model with heterogeneity
 
-The structure is
+## Complete Video Demonstration
+1. Get the data
+2. Run CJS model in chapter 5
+3. Run .ipynb files for each chapter
 
-## ./Presentation: 
+## Structure
+
+### ./Presentation: 
 My thesis oral presentation, including .pdf file and .ppt file.
 
-## ./Thesis:
+### ./Thesis:
 The file of my thesis, including .pdf file and latex source file.
 
-## ./Data:
+### ./Data:
 The .md file introduces the Twitch's dataset and data access. One need to follow the instruction to get the data.
 
-## ./Program:
+### ./Program:
 The code I used in my thesis, including .ipynb file and code for the CJS model.
   iPython files (.ipynb): how to get the results of the corresponding chapter in my thesis.
   ./ch5_CJS_Estimation_Error: code and script for runnung the CJS model with clustering results.
 
-## ./Result:
+### ./Result:
 The CJS results of the experiment in my thesis. 
 It is divided into p0_cluster_result, p1_capture_history, R_capture_probability, p2_daily_plot, and p2_est_result.
 
@@ -31,5 +38,5 @@ It is divided into p0_cluster_result, p1_capture_history, R_capture_probability,
 
 (5) p2_est_result: The estimation error rate, standard deviation, and the runtime of the CJS model.
 
-## ./Readme:
+### ./Readme:
 This file.
