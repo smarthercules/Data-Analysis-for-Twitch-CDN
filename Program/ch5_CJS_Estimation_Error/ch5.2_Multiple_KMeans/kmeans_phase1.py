@@ -23,6 +23,8 @@ end_date = streams_end_date[int(argv[1])]
 _num_cluster = argv[2]
 _label = argv[3]
 
+sample_hour = ['00', '01']
+
 client = MongoClient('localhost:25555')
 db = client.Twitch
 serverStatusResult = db.command('serverStatus')
@@ -47,11 +49,11 @@ with open(file_cluster, newline='') as csvfile:
 
 ip_dict = dict.fromkeys(ip_list, "")
 for d in date:
-    streams = db.United_States.find({ "start": { "$lte": "2021-"+d+"T01:00:00" }, "end": { "$gte": "2021-"+d+"T00:00:00" }})
+    streams = db.United_States.find({ "start": { "$lte": "2021-"+d+"T"+sample_hour[-1]+":00:00" }, "end": { "$gte": "2021-"+d+"T"+sample_hour[0]+":00:00" }})
     cur_ip_list = list()
     for s in streams:
         for (tm, ip) in s["transactionList"].items():
-            if tm >= "2021-"+d+"T00:00:00" and tm <= "2021-"+d+"T01:00:00":
+            if tm >= "2021-"+d+"T"+sample_hour[0]+":00:00" and tm <= "2021-"+d+"T"+sample_hour[-1]+":00:00":
                 if ip not in cur_ip_list:
                     cur_ip_list.append(ip)
     for ip in ip_list:
