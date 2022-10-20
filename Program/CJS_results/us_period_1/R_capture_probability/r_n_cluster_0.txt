@@ -1,25 +1,0 @@
- Number of evaluations:  100  -2lnl: 3617.532406 Number of evaluations:  200  -2lnl: 3619.122122 Number of evaluations:  300  -2lnl: 3616.304865 Number of evaluations:  400  -2lnl:  3614.75499 Number of evaluations:  500  -2lnl: 3614.545773 Number of evaluations:  600  -2lnl: 3614.248919 Number of evaluations:  700  -2lnl: 3614.110802 Number of evaluations:  800  -2lnl: 3614.083269 Number of evaluations:  900  -2lnl: 3614.072264 Number of evaluations:  1000  -2lnl: 3614.071335 Number of evaluations:  1100  -2lnl: 3614.070942 Number of evaluations:  1200  -2lnl: 3615.507372 Number of evaluations:  1300  -2lnl: 3646.902752 Number of evaluations:  1400  -2lnl: 3614.080723 Number of evaluations:  1500  -2lnl: 3626.651707 Number of evaluations:  1600  -2lnl: 3617.760682 Number of evaluations:  1700  -2lnl: 3638.250344 Number of evaluations:  1800  -2lnl: 3614.082556 Number of evaluations:  1900  -2lnl: 3614.757333 Number of evaluations:  2000  -2lnl: 3615.176492 Number of evaluations:  2100  -2lnl: 3614.436671 Number of evaluations:  2200  -2lnl:  3614.13286 Number of evaluations:  2300  -2lnl: 3638.179854 Number of evaluations:  2400  -2lnl: 3614.151795 Number of evaluations:  2500  -2lnl: 3614.070965 Number of evaluations:  2600  -2lnl: 3614.070942 Number of evaluations:  100  -2lnl: 3614.200405 Number of evaluations:  200  -2lnl: 3616.437666 Number of evaluations:  300  -2lnl: 3614.258647 Number of evaluations:  400  -2lnl: 3614.930412 Number of evaluations:  500  -2lnl: 3690.222217 Number of evaluations:  600  -2lnl:  3615.46342 Number of evaluations:  700  -2lnl: 3614.200441 Number of evaluations:  800  -2lnl: 3614.116121 Number of evaluations:  900  -2lnl: 3631.766911 Number of evaluations:  1000  -2lnl: 3614.094859 Number of evaluations:  1100  -2lnl: 3632.061915 Number of evaluations:  1200  -2lnl: 3615.458965 Number of evaluations:  1300  -2lnl:  3628.45396$Phi
-  time occ  estimate
-1    7   7 0.9741166
-2    8   8 0.9346871
-3    9   9 0.7092079
-4    6   6 0.9999999
-5    5   5 0.9989299
-6    3   3 0.9795720
-7    4   4 0.9925185
-8    2   2 0.9780385
-9    1   1 0.9922022
-
-$p
-  time occ  estimate
-1    8   8 0.9441964
-2    9   9 0.9967950
-3   10  10 0.9810261
-4    7   7 0.5290875
-5    6   6 0.9228776
-6    4   4 0.2787249
-7    5   5 0.9573612
-8    3   3 0.8013145
-9    2   2 0.9806194
-
-Time difference of 0.4174182 secs

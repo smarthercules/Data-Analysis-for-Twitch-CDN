@@ -1,3 +1,0 @@
-err: inf
-std: nan
-CJS time: 7.266155
