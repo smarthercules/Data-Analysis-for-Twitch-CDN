@@ -9,9 +9,9 @@ Similar to other streaming media, Twitch uses Content Delivery Network to provid
 
 In the early work, a one-time experiment has been done to survey Twitch's CDN. However, due to the rapid growth of Twitch and the high cost of a detailed scan on CDN, Twitch's CDN remains largely unknown to the public. 
 
-In our previous work, we used the CJS model, which assumes every individual shares the same time-dependent survival rate and capture probability, to estimate the CDN size. However, different servers may have different survival rates and capture probability. If we assume every server has its own survival rate and capture probability, the computation overhead of the CJS model may be too high since there are many parameters needed to estimate. Besides, maximum likelihood estimation would have a large bias if the sample size is too small~\cite{NIST2012}.
+In our previous work, we used the CJS model, which assumes every individual shares the same time-dependent survival rate and capture probability, to estimate the CDN size. However, different servers may have different survival rates and capture probability. If we assume every server has its own survival rate and capture probability, the computation overhead of the CJS model may be too high since there are many parameters needed to estimate. Besides, maximum likelihood estimation would have a large bias if the sample size is too small.
 
-In this research, I use the transaction count in hour periods to do clustering on the data from 5 countries and use the CMR model with heterogeneity with these clustering results. Next, I use S\_Dbw score~\cite{989517} to evaluate the clustering results. However, I find a better S\_Dbw score does not lead to have a lower error rate in the MLE-CJS model. Instead, if $ Avg/ Std$ in the number of sample servers larger than 0.3 of a cluster, it will tend to have a larger the estimation error rate. As a result, the clustering results with number of clusters less than 5 tend to have a lower estimation error rate since these clustering results contain less clusters with $ Avg/ Std$ larger than 0.3.
+In this research, I use the transaction count in hour periods to do clustering on the data from 5 countries and use the CMR model with heterogeneity with these clustering results. Next, I use S\_Dbw score to evaluate the clustering results. However, I find a better S_Dbw score does not lead to have a lower error rate in the MLE-CJS model. Instead, if Avg/Std in the number of sample servers larger than 0.3 of a cluster, it will tend to have a larger the estimation error rate. As a result, the clustering results with number of clusters less than 5 tend to have a lower estimation error rate since these clustering results contain less clusters with Avg/Std larger than 0.3.
 
 
 ## Complete Video Demonstration
@@ -28,12 +28,20 @@ My thesis oral presentation, including .pdf file and .ppt file.
 The file of my thesis, including .pdf file and latex source file.
 
 ### ./Data:
-The .md file introduces the Twitch's dataset and data access. One need to follow the instruction to get the data.
+The .md file introduces the Twitch's dataset and data access. One need to follow the instruction in the folder to get the data.
 
 ### ./Program:
 The code I used in my thesis, including .ipynb file and code for the CJS model.
-  iPython files (.ipynb): how to get the results of the corresponding chapter in my thesis.
-  ./ch5_CJS_Estimation_Error: code and script for runnung the CJS model with clustering results.
+  (1) .ipynb files: How to generate the results of figures and tables in my thesis. \
+  To run the .ipynb files, one needs to install the Python and Jupyter Notebook and setup the environment.
+  The .ipynb files will use the .csv file in './Data' and the CJS model results in './Result'.
+  Thus, one needs to follow the instruction in './Data' to get the dataset in different regions, and then start to run the program.
+  
+  (2) ./ch5_CJS_Estimation_Error: code and script for runnung the CJS model with clustering results.
+    (2-1) ./ch5.1_Preliminaries: run the script in all 3 folder (no_clustering, k_means, mean_shift), 
+    and to get the results (ex: p2_daily_plot_sample_hour_00.png and p2_est_result_sample_hour_06.txt)
+    (2-2) ./ch5.2_Multiple_KMeans: Before running the script, put the files here to one folder in './Result' (ex: us_period_1). 
+    Run the script 'run.sh', and the CJS results will show in the folder './p2_daily_plot' and './p2_est_result'
 
 ### ./Result:
 The CJS results of the experiment in my thesis. 
