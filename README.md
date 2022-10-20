@@ -38,7 +38,7 @@ The code I used in my thesis, including .ipynb file and code for the CJS model.
   The .ipynb files will use the .csv file in './Data' and the CJS model results in './Result'.
   Thus, one needs to follow the instruction in './Data' to get the dataset in different regions, and then start to run the program.
   
-  (2) ./ch5_CJS_Estimation_Error: code and script for runnung the CJS model with clustering results.
+  (2) ./ch5_CJS_Estimation_Error: code and script for runnung the CJS model.
   
     (2-1) ./ch5.1_Preliminaries: run the script in all 3 folder (no_clustering, k_means, mean_shift), 
     and to get the results (ex: p2_daily_plot_sample_hour_00.png and p2_est_result_sample_hour_06.txt)
