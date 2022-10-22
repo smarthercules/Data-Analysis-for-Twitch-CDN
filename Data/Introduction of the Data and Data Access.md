@@ -10,17 +10,17 @@ In my research, I picked the data from 'United_States', 'United_Kingdom', 'Franc
 
 ## Data Access
 1. Use PuTTY to connect to the server, "nslab@140.112.42.161".
-2. cd to the folder, '~/Desktop/Cheng_test'
-3. Change 'Netherlands' in the below code in 'load_csv.py' to the data you want to collect. [note 1]
+2. cd to the folder, '~/Desktop/Data-Analysis-for-Twitch-CDN/Data'
+3. Change 'United_States' in the below code in 'load_csv.py' to the data you want to collect. [note 1]
 ```
-for x in db.Netherlands.find():
+for x in db.United_States.find():
 ```
 5. Also, change the variable 'loc' in 'load_csv.py' to the data you want to collect. 
 6. Run 'load_csv.py'
-7. The program, 'load_csv.py', will create the data file as, './dataset/{loc}.csv'.
+7. The program, 'load_csv.py', will create the data file as, './{loc}.csv'.
 8. Use below SCP command to get the data from remote server to local.
 ```
-scp nslab@140.112.42.161:~/Desktop/Cheng_test/dataset/{loc}.csv
+scp nslab@140.112.42.161:~/Desktop/Data-Analysis-for-Twitch-CDN/Data/{loc}.csv
 ```
 
 
