@@ -28,7 +28,7 @@ My thesis oral presentation, including .pdf file and .ppt file.
 The file of my thesis, including .pdf file and latex source file.
 
 ### ./Data:
-The Introduction of the Data and Data Access.md file in the folder introduces the Twitch's dataset and data access.
+The file, Introduction of the Data and Data Access.md, in the folder introduces the Twitch's dataset and data access.\n
 One need to follow the instruction in the folder to get the data.
 
 ### ./Program:
