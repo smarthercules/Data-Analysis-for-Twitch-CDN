@@ -24,7 +24,8 @@ scp nslab@140.112.42.161:~/Desktop/Data-Analysis-for-Twitch-CDN/Data/{loc}.csv
 ```
 
 
-[note 1]
-The option of locations is shown below.
-
+Note
+1. The option of locations is shown below.\
 location = 'Taiwan', 'Russian', 'Brazil', 'Ukraine', 'South_Korea', 'Spain', 'United_Kingdom', 'Canada', 'France', 'Netherlands', 'Germany', 'Japan', 'Australia', 'Denmark', 'Poland', 'Sweden', 'Italy', 'Turkey', 'United_States', 'SouthKorea'
+2. The data of United_States (us.csv), United_Kingdom, France, Netherlands, and Germany are arealdy in remote.
+One can directly download the data from nslab@140.112.42.161:~/Desktop/Data-Analysis-for-Twitch-CDN/Data
