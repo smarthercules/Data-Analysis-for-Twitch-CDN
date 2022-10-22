@@ -11,7 +11,7 @@ In my research, I picked the data from 'United_States', 'United_Kingdom', 'Franc
 ## Data Access
 1. Use PuTTY to connect to the server, "nslab@140.112.42.161".
 2. cd to the folder, '~/Desktop/Data-Analysis-for-Twitch-CDN/Data'
-3. Change 'United_States' in the below code in 'load_csv.py' to the data you want to collect. [note 1]
+3. Change 'United_States' in the below code in 'load_csv.py' to the data you want to collect. [Note 1]
 ```
 for x in db.United_States.find():
 ```
