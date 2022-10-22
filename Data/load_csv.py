@@ -12,13 +12,13 @@ serverStatusResult = db.command('serverStatus')
 #print(db.list_collection_names()) 
 
 data_dict = dict()
-loc = 'Netherlands'
-for x in db.Netherlands.find():
+loc = 'us'
+for x in db.United_States.find():
     data_dict[x['_id']] = x
 print(f'loc={loc}, count={len(data_dict)}')
 
 
-filename = f'./dataset/{loc}.csv'
+filename = f'./{loc}.csv'
 with open(filename, 'w', newline='') as csvfile:
   fieldnames = ['_id', 'vpnServerId', 'channel', 'end', 'language', 'serverPool', 'start', 'transactionList', 'addrPool', 'viewerList']
 
