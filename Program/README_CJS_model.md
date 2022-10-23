@@ -12,7 +12,7 @@ Run the .sh files in the folder to generate the estimation results of the CJS mo
 The estimation error rate will show on the terminal.\
 Besides, the estimation result will save as "p2_est_result_sample_hour_{smaple_hour}.txt", and the plot of estimation number and baseline will save as "p2_daily_plot_sample_hour_{smaple_hour}.png"
 
-### ch5.2 Multiple_KMeans
+### ch5.2 Multiple_KMeans & ch6.2~ch6.5
 Before run the codes in ch5.2 Multiple_KMeans, one needs to choose one region folder in "../Rusult" (ex: France, United_Kingdom).\
 Move the all the files in this region folder to the same directory with the codes in "ch5.2_Multiple_KMeans".\
 The files include "p0_cluster_result", "p1_capture_history", "p2_daily_plot", "p2_est_result", "R_capture_probability", and "random_nc_2to8".
@@ -31,5 +31,3 @@ In the following code blocks, it is an example for the code for us dataset (Unit
 ```
 
 In the end, run the srcipt, run.sh, and the results will be generated in the folders, "p2_daily_plot" and "p2_est_result". 
-
-### ch6.2 ~ ch6.
