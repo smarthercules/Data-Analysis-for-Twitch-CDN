@@ -1,10 +1,12 @@
-# CJS Model
+# CJS Model Introduction and Deploy Method
 
 ## Introduction
 
-In the chapter 5, 6, and 7 of my thesis, I deploy the clustering results to MLE based CJS model. We use the package "marked" in r.
-We divide the code into 3 phase, kmeans_phase1.py, CJS.R, cheng_kmeans_phase1.py.
-And run codes on the remote machine, "140.112.42.161".
+In the chapter 5, 6, and 7 of my thesis, I deploy the clustering results to MLE based CJS model on the remote machine, "140.112.42.161".
+The CJS model is divided the code into 3 phase, kmeans_phase1.py, CJS.R, and cheng_kmeans_phase2.py.\
+1. kmeans_phase1.py: read the clustering results in the folder, "p0_cluster_result", and output the capture histories in the folder, "p1_capture_history".
+2. CJS.R: use the capture histories as input, and output the survival rates and capture probabilities in the folder, "R_capture_probability".
+3. cheng_kmeans_phase2.py: use the capture probability and clustering results to calculate the estimation number, and generate error rate and daily plot in the folders, "p2_est_result" and "p2_daily_plot".
 
 ## Deploy Method
 ### ch5.1 Preliminaries
