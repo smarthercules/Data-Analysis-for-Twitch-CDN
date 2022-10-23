@@ -16,8 +16,9 @@ In this research, I use the transaction count in hour periods to do clustering o
 
 ## Complete Video Demonstration
 1. Data Access: https://youtu.be/z22uhSRdCqw
-2. Run CJS model in chapter 5
-3. Run .ipynb files for each chapter
+2. Chapter 5.1 Demo: https://youtu.be/5SienlbZ3mI
+3. Chapter 5.2 Demo: 
+4. Run .ipynb files for each chapter
 
 ## Structure
 
