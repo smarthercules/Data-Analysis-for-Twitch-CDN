@@ -13,7 +13,9 @@ The estimation error rate will show on the terminal.\
 Besides, the estimation result will save as "p2_est_result_sample_hour_{smaple_hour}.txt", and the plot of estimation number and baseline will save as "p2_daily_plot_sample_hour_{smaple_hour}.png"
 
 ### ch5.2 Multiple_KMeans
-Before run the codes in ch5.2 Multiple_KMeans, one needs to choose one the folder in "../Rusult", and the files should be to the same directory with the codes in "ch5.2_Multiple_KMeans". The files are "p0_cluster_result", "p1_capture_history", "p2_daily_plot", "p2_est_result", "R_capture_probability", and "random_nc_2to8" in one region folder (ex: France, United_Kingdom).
+Before run the codes in ch5.2 Multiple_KMeans, one needs to choose one region folder in "../Rusult" (ex: France, United_Kingdom).\
+Move the all the files in this region folder to the same directory with the codes in "ch5.2_Multiple_KMeans".\
+The files includes "p0_cluster_result", "p1_capture_history", "p2_daily_plot", "p2_est_result", "R_capture_probability", and "random_nc_2to8".
 
 Next, the "sample_hour" and dataset of "db" in "kmeans_phase1.py" and "cheng_kmeans_phase2.py" need to be changed by the data you choose.\
 In the following code blocks, it is an example for the code for us dataset (United_States).
