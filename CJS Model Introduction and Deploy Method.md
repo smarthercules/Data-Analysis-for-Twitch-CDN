@@ -10,10 +10,9 @@ The CJS model is divided the code into 3 phase, kmeans_phase1.py, CJS.R, and che
 
 ## Deploy Method
 ### ch5.1 Preliminaries
-Firstly, use putty to connect to "nslab@140.112.42.161".\
-Change the directory to "~/Desktop/Data-Analysis-for-Twitch-CDN/ch5/ch5.1_Preliminaries".\
-Run the .sh files in the folders, "k_means", "mean_shift", and "no_clustering", to generate the estimation results of the CJS model.\
-The estimation error rate will show on the terminal.\
+Firstly, use putty to connect to "nslab@140.112.42.161" and change the directory to "~/Desktop/Data-Analysis-for-Twitch-CDN/ch5/ch5.1_Preliminaries".\
+Secondly, Run the .sh files in the folders, "k_means", "mean_shift", and "no_clustering", to generate the estimation results of the CJS model.\
+Lastly, the estimation error rate will show on the terminal.\
 Besides, the estimation result will save as "p2_est_result_sample_hour_{smaple_hour}.txt", and the plot of estimation number and baseline will save as "p2_daily_plot_sample_hour_{smaple_hour}.png"
 
 ### ch5.2 Multiple_KMeans & ch6.2~ch6.5
