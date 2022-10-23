@@ -17,12 +17,8 @@ Before run the codes in ch5.2 Multiple_KMeans, one needs to choose one the folde
 
 Next, the "sample_hour" and dataset of "db" in "kmeans_phase1.py" and "cheng_kmeans_phase2.py" need to be changed by the data you choose.
 
-'''
-sample_hour = ['00', '01']
-'''
+  sample_hour = ['00', '01']
 
-'''
-streams = db.United_States.find(...)
-'''
+  streams = db.United_States.find(...)
 
 ### ch6.2 ~ ch6.
