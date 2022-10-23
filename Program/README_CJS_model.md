@@ -13,6 +13,16 @@ The estimation error rate will show on the terminal.\
 Besides, the estimation result will save as "p2_est_result_sample_hour_{smaple_hour}.txt", and the plot of estimation number and baseline will save as "p2_daily_plot_sample_hour_{smaple_hour}.png"
 
 ### ch5.2 Multiple_KMeans
+Before run the codes in ch5.2 Multiple_KMeans, one needs to choose one the folder in "../Rusult", and the files should be to the same directory with the codes in "ch5.2_Multiple_KMeans".
 
+Next, the "sample_hour" and dataset of "db" in "kmeans_phase1.py" and "cheng_kmeans_phase2.py" need to be changed by the data you choose.
+
+'''
+sample_hour = ['00', '01']
+'''
+
+'''
+streams = db.United_States.find(...)
+'''
 
 ### ch6.2 ~ ch6.
