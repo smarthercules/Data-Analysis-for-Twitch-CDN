@@ -102,10 +102,10 @@ In the end, check the argv[1] in the script (in below two lines) and change to t
 After that, run the srcipt, run.sh, and the results will be generated in the folders, "p2_daily_plot" and "p2_est_result". 
 
 ```
-  python kmeans_phase1.py 1 $n_cluster $loop
+python kmeans_phase1.py 1 $n_cluster $loop
 ```
 
 ```
-	python cheng_kmeans_phase2.py 1 $n_cluster $loop
+python cheng_kmeans_phase2.py 1 $n_cluster $loop
 ```
 
