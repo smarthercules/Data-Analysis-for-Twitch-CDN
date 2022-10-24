@@ -98,5 +98,14 @@ In the following code blocks, it is an example for the code for us dataset (Unit
   streams = db.United_States.find(...)
 ```
 
-In the end, run the srcipt, run.sh, and the results will be generated in the folders, "p2_daily_plot" and "p2_est_result". 
+In the end, check the argv[1] in the script (in below two lines) and change to the dates you want to deploy.\
+After that, run the srcipt, run.sh, and the results will be generated in the folders, "p2_daily_plot" and "p2_est_result". 
+
+```
+  python kmeans_phase1.py 1 $n_cluster $loop
+```
+
+```
+	python cheng_kmeans_phase2.py 1 $n_cluster $loop
+```
 
