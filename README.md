@@ -34,7 +34,7 @@ One need to follow the instruction in the folder to get the data before executin
 ### ./Program:
 The code I used in my thesis, including .ipynb file and code for the CJS model.
 
-  (1) .ipynb files: The code for generating the results of figures and tables in my thesis.\
+  (1) .ipynb files: The codes for generating the results of figures and tables in my thesis.\
   To run the .ipynb files, one needs to install the Python and Jupyter Notebook and setup the environment.\
   The .ipynb files will use the .csv file in './Data' and the CJS model results in './Result'.\
   Thus, one needs to follow the instruction in './Data' to get the dataset in different regions, and then start to run the program.\
