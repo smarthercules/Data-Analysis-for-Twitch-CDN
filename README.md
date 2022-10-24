@@ -29,12 +29,12 @@ The file of my thesis, including .pdf file and latex source file.
 
 ### ./Data:
 The file, Introduction of the Data and Data Access.md, in the folder introduces the Twitch's dataset and data access.\
-One need to follow the instruction in the folder to get the data.
+One need to follow the instruction in the folder to get the data before executing the codes in './Program'
 
 ### ./Program:
 The code I used in my thesis, including .ipynb file and code for the CJS model.
 
-  (1) .ipynb files: How to generate the results of figures and tables in my thesis.\
+  (1) .ipynb files: The code for generating the results of figures and tables in my thesis.\
   To run the .ipynb files, one needs to install the Python and Jupyter Notebook and setup the environment.\
   The .ipynb files will use the .csv file in './Data' and the CJS model results in './Result'.\
   Thus, one needs to follow the instruction in './Data' to get the dataset in different regions, and then start to run the program.\
